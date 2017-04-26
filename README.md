@@ -1,6 +1,6 @@
 # npmtest-react-addons-perf
 
-#### test coverage for  [react-addons-perf (v15.4.2)](https://github.com/facebook/react#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-addons-perf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-addons-perf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-addons-perf.svg)](https://travis-ci.org/npmtest/node-npmtest-react-addons-perf)
+#### basic test coverage for  [react-addons-perf (v15.4.2)](https://github.com/facebook/react#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-addons-perf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-addons-perf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-addons-perf.svg)](https://travis-ci.org/npmtest/node-npmtest-react-addons-perf)
 
 #### This package provides the React Perf add-on.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-addons-perf/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-addons-perf/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-addons-perf/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-addons-perf/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-addons-perf/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-addons-perf/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-addons-perf/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-addons-perf/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-addons-perf/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-addons-perf/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-addons-perf/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-addons-perf/build/coverage.html/index.html)
 
@@ -95,7 +95,8 @@
         "url": "git+https://github.com/facebook/react.git"
     },
     "scripts": {},
-    "version": "15.4.2"
+    "version": "15.4.2",
+    "bin": {}
 }
 ```
 
